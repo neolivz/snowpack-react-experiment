@@ -1,0 +1,23 @@
+{
+  "name": "snowpack-experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+
+    "live-server": "^1.2.1",
+    "snowpack": "^1.1.2"
+  },
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.8.4",
+    "@babel/preset-react": "^7.8.3",
+    "react": "npm:@reactesm/react@^0.1.0",
+    "react-dom": "npm:@reactesm/react-dom@^0.1.1"
+  }
+}
